@@ -91,3 +91,9 @@ main a {
 span{
   height:600px;
 }
+
+footer{
+  color:rgb(255, 255, 255);
+  margin-top: -50px;
+  text-align: center;
+}
